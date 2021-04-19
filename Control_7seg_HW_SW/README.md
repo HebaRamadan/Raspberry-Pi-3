@@ -1,2 +1,2 @@
 # Control_7seg_HW_SW
-https://user-images.githubusercontent.com/81022693/115302695-fee1a600-a162-11eb-865e-1678f68b4680.mp4
+https://user-images.githubusercontent.com/81022693/115303214-9fd06100-a163-11eb-95b4-39f4c70c96f8.mp4
